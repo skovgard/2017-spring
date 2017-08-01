@@ -1,2 +1,2 @@
 # 2017-spring
-Interaction Development 2107-spring 1st Semester
+Interaction Development 2017-spring 1st Semester
